@@ -1,0 +1,446 @@
+(footprint "TO-220-3_Horizontal_TabDown"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
+	(tags "TO-220-3 Horizontal RM 2.54mm")
+	(property "Reference" "REF**"
+		(at 6.985 -2.413 90)
+		(layer "F.SilkS")
+		(uuid "b9c6947c-2da5-41b1-8248-d736993a905c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L7805CV"
+		(at 2.54 2 0)
+		(layer "F.Fab")
+		(uuid "4c5829c3-7389-4760-9ed7-6429e3648267")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "422bb1f3-f682-42ea-9061-37f738085a44")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c25ddf6c-9601-4fee-9e30-add2b5553ccc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "IC REG LINEAR 5V 1.5A TO220AB"
+		(at 120.066 81.966 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "200261bb-119d-4a8b-aec3-f040276d4d90")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Category" "Integrated Circuits (ICs)"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ac99283-6590-4aee-9a0d-ababc5655524")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Datasheet_Link" "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d9fb1c2-54e8-4dc0-aa5c-bab67e2fcda6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Detail_Page" "/product-detail/en/stmicroelectronics/L7805CV/497-1443-5-ND/585964"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3001e4d-4a6c-49c2-989a-d1b48a7c5bd3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "497-1443-5-ND"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11cb7aee-5f65-4472-9dca-a55f7548ac17")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Family" "PMIC - Voltage Regulators - Linear"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "827b0ee2-eb51-441f-a124-b069dc13eae4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "L7805CV"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8547c406-0bc5-4d2a-b8f9-703c9e15edd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "STMicroelectronics"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92b87e51-d558-43de-b81c-be2fb3deabae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Status" "Active"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f72cc741-8674-40ca-ac4c-2390c92f33a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.58 -19.58)
+		(end -2.58 -3.69)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f07fbe7d-4ba6-49ad-990f-088ec0a863d1")
+	)
+	(fp_line
+		(start -2.58 -19.58)
+		(end 7.66 -19.58)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a39ed109-2446-473c-aceb-21b255087bf6")
+	)
+	(fp_line
+		(start -2.58 -3.69)
+		(end 7.66 -3.69)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2886ed0c-6e6c-49ff-ac54-b2224a447b65")
+	)
+	(fp_line
+		(start 0 -3.69)
+		(end 0 -1.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5866d10c-be69-47ff-bfe0-1e9d1e03ba5b")
+	)
+	(fp_line
+		(start 2.54 -3.69)
+		(end 2.54 -1.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64f44c50-bc73-44f6-84f4-88177328f936")
+	)
+	(fp_line
+		(start 5.08 -3.69)
+		(end 5.08 -1.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c0fe32b-e1fe-4eda-a51c-f09956e0c73c")
+	)
+	(fp_line
+		(start 7.66 -19.58)
+		(end 7.66 -3.69)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb72ea3b-1764-4c42-96db-ca87b8461d4b")
+	)
+	(fp_line
+		(start -2.71 -19.71)
+		(end -2.71 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "673de3b7-38a3-4a9e-a02a-46e61abe08b8")
+	)
+	(fp_line
+		(start -2.71 1.25)
+		(end 7.79 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e35804d4-d6dc-489e-b971-0785472aba61")
+	)
+	(fp_line
+		(start 7.79 -19.71)
+		(end -2.71 -19.71)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dccdfc32-9a36-4727-9770-c41ce3a2fd19")
+	)
+	(fp_line
+		(start 7.79 1.25)
+		(end 7.79 -19.71)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cb45ff52-0ae6-4ea4-9c8d-43b8bd7ac32e")
+	)
+	(fp_line
+		(start -2.46 -19.46)
+		(end 7.54 -19.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b285377-c8b6-40bb-ad92-b91ff9da1266")
+	)
+	(fp_line
+		(start -2.46 -13.06)
+		(end -2.46 -19.46)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "08bb990a-da4f-42af-b8e4-773f51a7f696")
+	)
+	(fp_line
+		(start -2.46 -13.06)
+		(end 7.54 -13.06)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1aa41cfa-117d-437e-8c44-cdf6559fe0af")
+	)
+	(fp_line
+		(start -2.46 -3.81)
+		(end -2.46 -13.06)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bdd82a5e-a5e5-447e-a1ab-a34b1f2fe002")
+	)
+	(fp_line
+		(start 0 -3.81)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a2b04e5c-e19a-4a6e-8cb0-bef977d3cfde")
+	)
+	(fp_line
+		(start 2.54 -3.81)
+		(end 2.54 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3932775a-7e8e-4c99-b41a-b6b1efe9ed58")
+	)
+	(fp_line
+		(start 5.08 -3.81)
+		(end 5.08 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2fb3142b-a516-4c8c-86ad-00b34b6376c9")
+	)
+	(fp_line
+		(start 7.54 -19.46)
+		(end 7.54 -13.06)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "166de995-938f-442c-8cc3-636ce2131d00")
+	)
+	(fp_line
+		(start 7.54 -13.06)
+		(end -2.46 -13.06)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ea1b16b-3715-46ec-bcad-4f31b62d6861")
+	)
+	(fp_line
+		(start 7.54 -13.06)
+		(end 7.54 -3.81)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "613be78c-9c8a-4be8-9845-3aa8c1661225")
+	)
+	(fp_line
+		(start 7.54 -3.81)
+		(end -2.46 -3.81)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b2e9c7e2-a0ad-482c-b332-e25da5384ca0")
+	)
+	(fp_circle
+		(center 2.54 -16.66)
+		(end 4.39 -16.66)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "106b605c-891f-491c-a8ea-f11c3e3e0953")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 -20.58 0)
+		(layer "F.Fab")
+		(uuid "609dff6e-9b7f-468d-a184-4c7d66758392")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at 2.54 -16.66)
+		(size 3.5 3.5)
+		(drill 3.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "5d2c5ac2-8d0e-4cb4-a97c-9ba0bbf49d0f")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.905 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "357b6fbf-99ff-43ea-a302-a610c2512ea0")
+	)
+	(pad "2" thru_hole oval
+		(at 2.54 0)
+		(size 1.905 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7661a294-e11f-40fe-99e6-65e22cc411f4")
+	)
+	(pad "3" thru_hole oval
+		(at 5.08 0)
+		(size 1.905 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b39c1364-d2b3-4cbb-881d-7ed6823620fc")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabDown.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

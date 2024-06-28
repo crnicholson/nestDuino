@@ -11823,7 +11823,7 @@
 		(layer "Edge.Cuts")
 		(uuid "ef0ee1ce-7ed7-4e9c-abb9-dc0926a9353e")
 	)
-	(gr_text "nestDuino v6\nDesigned in MA, US, by Charles Nicholson, June 2024, for NeSciTech.\n"
+	(gr_text "nestDuino v6\nDesigned in MA, US, by Charles Nicholson, June 2024, for NESciTech.\n"
 		(at 163.5 53.391 0)
 		(layer "B.SilkS")
 		(uuid "2650cdcc-18c5-45c0-8b68-fc36e472e46a")
@@ -11843,6 +11843,18 @@
 			(font
 				(size 0.9 0.9)
 				(thickness 0.13)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "https://github.com/\ncrnicholson/nestDuino"
+		(at 163.5 59.233 0)
+		(layer "B.SilkS")
+		(uuid "8b5d188a-880f-4cf2-8b9e-086bf1edf70c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
