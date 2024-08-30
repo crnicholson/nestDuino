@@ -156,7 +156,7 @@
 	(net 37 "Net-(D2-A)")
 	(net 38 "unconnected-(SW1-Pad3)")
 	(net 39 "unconnected-(SW1-Pad4)")
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+	(footprint "footprints:PinSocket_1x08_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000551afcfc")
@@ -186,7 +186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "footprints:PinSocket_1x08_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -488,7 +488,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+	(footprint "footprints:PinSocket_1x06_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000551afd13")
@@ -518,7 +518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "footprints:PinSocket_1x06_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -798,7 +798,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
+	(footprint "footprints:PinSocket_1x10_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000551afd43")
@@ -828,7 +828,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical"
+		(property "Footprint" "footprints:PinSocket_1x10_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1152,7 +1152,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+	(footprint "footprints:PinSocket_1x08_P2.54mm_Vertical"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000551afd5a")
@@ -1182,7 +1182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "footprints:PinSocket_1x08_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1484,7 +1484,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+	(footprint "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0272cbcb-58c7-4c57-907f-4fcda8f3fc26")
 		(at 151.308 78.664)
@@ -1512,7 +1512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1756,7 +1756,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "08716582-957e-4d55-af8e-70fb66c31811")
 		(at 153.514 94.158 180)
@@ -1784,7 +1784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2008,7 +2008,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "10b87b7d-73ca-4caf-a899-cd472069d76c")
 		(at 133.608 75.87)
@@ -2036,7 +2036,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2260,7 +2260,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "2d6890ff-4702-49ff-aca8-de59728ded2b")
 		(at 123.114 81.712 90)
@@ -2288,7 +2288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2512,7 +2512,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "3b0e6840-f8fd-41e9-bb22-b9d35ebc014f")
 		(at 146.816 81.458)
@@ -2540,7 +2540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2764,7 +2764,7 @@
 			)
 		)
 	)
-	(footprint "Connector_BarrelJack:BarrelJack_Horizontal"
+	(footprint "footprints:BarrelJack_Horizontal"
 		(layer "F.Cu")
 		(uuid "3c37f680-3c83-4769-b87d-c87b455faa55")
 		(at 110.572 92.3292)
@@ -2792,7 +2792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
+		(property "Footprint" "footprints:BarrelJack_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3158,7 +3158,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "421c57c6-e2cc-4059-8bd5-8522b505284a")
 		(at 126.63 94.412 180)
@@ -3186,7 +3186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3399,7 +3399,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+	(footprint "footprints:PinHeader_2x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "425bc172-e128-4f82-ac74-7bddf261ebb2")
 		(at 163.627 69.52)
@@ -3427,7 +3427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+		(property "Footprint" "footprints:PinHeader_2x03_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3727,7 +3727,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "430479c7-1e6a-4e39-abc7-3cb5eae050cc")
 		(at 124.598 97.206 180)
@@ -3755,7 +3755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3968,7 +3968,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "438b5011-6830-40c0-ac3f-663dfe08339c")
 		(at 125.908 75.108 -90)
@@ -3996,7 +3996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4220,7 +4220,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "48a6c397-ea05-40a4-9a16-1d0f06a92661")
 		(at 141.188 94.158)
@@ -4248,7 +4248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4472,7 +4472,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "52694021-3837-4eea-ad5b-45961179ce13")
 		(at 114.01 94.412)
@@ -4500,7 +4500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4724,7 +4724,7 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-28_W7.62mm"
+	(footprint "footprints:DIP-28_W7.62mm"
 		(layer "F.Cu")
 		(uuid "5a77c5f7-183d-4b49-985c-4744b2bca989")
 		(at 161.468 83.998 -90)
@@ -4752,7 +4752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-28_W7.62mm"
+		(property "Footprint" "footprints:DIP-28_W7.62mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5275,7 +5275,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+	(footprint "footprints:TO-220-3_Horizontal_TabDown"
 		(layer "F.Cu")
 		(uuid "5d4f9bfa-5e8a-4539-a7c9-b664161c98fe")
 		(at 120.066 81.966 90)
@@ -5303,7 +5303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+		(property "Footprint" "footprints:TO-220-3_Horizontal_TabDown"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5732,7 +5732,7 @@
 			)
 		)
 	)
-	(footprint "Crystal:Crystal_HC49-U_Vertical"
+	(footprint "footprints:Crystal_HC49-U_Vertical"
 		(layer "F.Cu")
 		(uuid "60ce31f6-9724-4aa7-90d9-33497a31780b")
 		(at 137.428 79.934)
@@ -5760,7 +5760,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
+		(property "Footprint" "footprints:Crystal_HC49-U_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6012,7 +6012,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal"
+	(footprint "footprints:PinSocket_1x06_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6aaf3ec5-ca20-4ee2-8d5d-752d731890f6")
 		(at 140.132 57.836)
@@ -6040,7 +6040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal"
+		(property "Footprint" "footprints:PinSocket_1x06_P2.54mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6880,7 +6880,7 @@
 			)
 		)
 	)
-	(footprint "Arduino_MountingHole:MountingHole_3.2mm"
+	(footprint "footprints:MountingHole_3.2mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "6e571799-0217-4b63-970e-fdbb6a7139e3")
@@ -6911,7 +6911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arduino_MountingHole:MountingHole_3.2mm"
+		(property "Footprint" "footprints:MountingHole_3.2mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6979,7 +6979,7 @@
 			(uuid "1aabe967-aeae-4f97-bc09-79c46ddd1176")
 		)
 	)
-	(footprint "LED_THT:LED_D3.0mm"
+	(footprint "footprints:LED_D3.0mm"
 		(layer "F.Cu")
 		(uuid "77dc64d9-56ca-4c24-b8e6-c4fa5ca9955d")
 		(at 156.642 55.042)
@@ -7007,7 +7007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "footprints:LED_D3.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7218,7 +7218,7 @@
 			)
 		)
 	)
-	(footprint "LED_THT:LED_D3.0mm"
+	(footprint "footprints:LED_D3.0mm"
 		(layer "F.Cu")
 		(uuid "95d7dd90-7d32-49be-91e4-c2e2d1ba86f7")
 		(at 154.102 55.042 180)
@@ -7246,7 +7246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "footprints:LED_D3.0mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7457,7 +7457,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "9875e713-6724-406d-a6b4-96ce10454842")
 		(at 161.428 81.458 180)
@@ -7485,7 +7485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7709,7 +7709,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+	(footprint "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "9a64ee18-bf35-46c8-94c9-a32ccd123078")
 		(at 145.934 75.87 180)
@@ -7737,7 +7737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "footprints:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7961,7 +7961,7 @@
 			)
 		)
 	)
-	(footprint "LOGO"
+	(footprint "footprints:LOGO"
 		(layer "F.Cu")
 		(uuid "9f59fe91-fbbc-4d11-a9a3-f10fff92340f")
 		(at 154.102 63.921341)
@@ -7989,7 +7989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LOGO"
+		(property "Footprint" "footprints:LOGO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8759,7 +8759,7 @@
 			(uuid "6c9e5f81-11a9-409b-aa88-79bc20f30aef")
 		)
 	)
-	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+	(footprint "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b586bf87-1526-4f93-bf42-25e3a16c734f")
 		(at 165.786 88.57 90)
@@ -8787,7 +8787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9031,7 +9031,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+	(footprint "footprints:CP_Radial_D5.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "b7d3e9d5-fa6d-458e-97d4-affced8714cf")
 		(at 116.957113 88.316 180)
@@ -9059,7 +9059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "footprints:CP_Radial_D5.0mm_P2.00mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10386,7 +10386,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_THT:SW_PUSH_6mm"
+	(footprint "footprints:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "cd8d981c-1ac5-4b5c-b83d-caabf4135854")
 		(at 108.128 52.756 180)
@@ -10414,7 +10414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "footprints:SW_PUSH_6mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10742,7 +10742,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+	(footprint "footprints:SOT-223-3_TabPin2"
 		(layer "F.Cu")
 		(uuid "cff30f1a-5d98-48fc-84bf-4625d19b487c")
 		(at 122.86 88.316 90)
@@ -10770,7 +10770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "footprints:SOT-223-3_TabPin2"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11000,7 +11000,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+	(footprint "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e1757079-e74e-475d-8b79-2be5afb29bf0")
 		(at 160.452 60.376 180)
@@ -11028,7 +11028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11272,7 +11272,7 @@
 			)
 		)
 	)
-	(footprint "Arduino_MountingHole:MountingHole_3.2mm"
+	(footprint "footprints:MountingHole_3.2mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "e37b79bf-98e8-4522-b749-f0e7c6a98bbc")
@@ -11303,7 +11303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arduino_MountingHole:MountingHole_3.2mm"
+		(property "Footprint" "footprints:MountingHole_3.2mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11371,7 +11371,7 @@
 			(uuid "c8c44d91-ad4e-4db1-91ff-c0f194088c20")
 		)
 	)
-	(footprint "Arduino_MountingHole:MountingHole_3.2mm"
+	(footprint "footprints:MountingHole_3.2mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "e9ebf119-598a-41fd-98be-2dbed0b47309")
@@ -11402,7 +11402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arduino_MountingHole:MountingHole_3.2mm"
+		(property "Footprint" "footprints:MountingHole_3.2mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11470,7 +11470,7 @@
 			(uuid "f5c5381c-91f2-49ef-aa73-4183f7581432")
 		)
 	)
-	(footprint "Arduino_MountingHole:MountingHole_3.2mm"
+	(footprint "footprints:MountingHole_3.2mm"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "ee2daf16-2f42-4829-9824-10ca9836b9cd")
@@ -11501,7 +11501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Arduino_MountingHole:MountingHole_3.2mm"
+		(property "Footprint" "footprints:MountingHole_3.2mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
